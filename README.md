@@ -1,2 +1,3 @@
 # Hello-World
-Hi Im Matias :D
+Hello Sugar Labs , Im Matías Martinez and I am very excited about the contest.
+Regards.
